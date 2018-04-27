@@ -1,2 +1,3 @@
-abcd
-bd
+ccabacbaabad
+dababccaaba
+ccddababaaba
